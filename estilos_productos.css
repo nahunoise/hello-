@@ -1,0 +1,91 @@
+
+*{
+	margin:0px;
+	padding:0px;
+	background-color: #faebf2
+}
+h1 { 
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #00ff4e;
+	letter-spacing: 3px;
+
+
+
+}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	color: #00ff4e;
+	letter-spacing: 3px;
+}
+
+a { text-decoration: none; border-bottom: dashed 1px; }
+a:hover { border-bottom: solid 1px; }
+
+p {
+font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color: #ff3d68;
+	letter-spacing: 0px;
+	text-align: justify;
+
+}
+
+#mi_estilo{
+
+     font-family: "Anton";
+
+}
+button {
+	border: #FA2A54;
+	outline-color: #FA2A54;
+	font-style: bold;
+
+	
+
+}
+
+div#general{
+	margin:auto;
+	margin:top 150px;
+	width:960px;
+	height: 800px;
+	background-color: #faebf2;
+}
+
+div#logo{
+	float: left;
+	width: 250px;
+	height: 100px;
+	margin-top: 30px;
+	
+}
+
+div#titulo{
+	margin-top: 180;
+	float: right;
+	margin-left: 60px;
+	width: 700px;
+	height: 60px;
+
+
+}
+
+div#menu{
+	float: left;
+	margin-top: 200px;
+	width: 90px;
+	height:450px;
+	font-family: helvetica
+}
+
+div#body{
+	float: right;
+	width: 700px;
+	height: 450px;
+	border-top: 10px;
+
+
